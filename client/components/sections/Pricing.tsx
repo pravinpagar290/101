@@ -99,7 +99,7 @@ export function Pricing() {
                 </div>
                 
                 <Button 
-                  variant={plan.highlighted ? "primary" : "outline"} 
+                  variant={plan.highlighted ? "default" : "outline"} 
                   className="mb-8 w-full"
                 >
                   Get Started
